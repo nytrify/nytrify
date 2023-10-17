@@ -1,5 +1,5 @@
 # Hi, I'm Benjamin
-I'm currently a 3rd year (5th semester) Computer Science student in BINUS University. I am currently interested in learning all things related to Software Engineering with a focus on Backend Development. All the projects that I have or am currently working on are available to view in my repositories.
+I'm currently a 3rd year (5th semester) Computer Science student in BINUS University. I am interested in learning all things related to Software Engineering with a focus on Backend Development. All the projects that I have or am currently working on are available to view in my repositories.
 
 # Languages/Frameworks that I have learned
 C, C++, C#, ASP.NET, HTML, CSS, Javascript, Node.js, Express.js, MongoDB, Mongoose, MySQL, PHP, Python
