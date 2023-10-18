@@ -1,6 +1,6 @@
 # Hi, I'm Benjamin
 I'm currently a 3rd year (5th semester) Computer Science student in BINUS University. I am interested in learning all things related to Web Development and Software Engineering with a focus on Backend Development. 
-- All the projects that I have or am currently working on are available to view in my repositories, and I have mostly worked on projects related to Node.js
+- Projects that I have or am currently working on are available to view in my repositories, and I have mostly worked on projects related to Node.js
 - You can contact me via my email at **cbenjamin.panggabean@gmail.com**
 
 # Languages/Frameworks that I have learned
