@@ -7,7 +7,7 @@ I'm currently a 3rd year (5th semester) Computer Science student in BINUS Univer
 C, C++, C#, ASP.NET, HTML, CSS, Javascript, Node.js, Express.js, MongoDB, Mongoose, MySQL, PHP, Python
 
 # Languages/Frameworks that I'm currently learning
-Java, JavaFX, Laravel, React, Typescript
+Java, JavaFX, Laravel, React, JSX
 
 <!--
 **nytrify/nytrify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
